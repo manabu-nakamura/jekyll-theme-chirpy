@@ -15,5 +15,5 @@ gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
 
 group :jekyll_plugins do
 #  gem 'jekyll-gfm-admonitions'
-  gem 'jekyll-gfm-admonitions', git: 'https://github.com/manabu-nakamura/jekyll-gfm-admonitions2'#, branch: 'master'
+  gem 'jekyll-gfm-admonitions', git: 'https://github.com/manabu-nakamura/jekyll-gfm-admonitions2'
 end
